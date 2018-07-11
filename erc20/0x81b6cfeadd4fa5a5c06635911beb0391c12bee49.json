@@ -2,12 +2,12 @@
   "symbol": "PIIP",
   "address": "0x81b6cfeadd4fa5a5c06635911beb0391c12bee49",
   "overview":{
-        "en": "The Financial Chain is committed to building a bridge between the digital world and the real business world assets by building trusted identities and trusted assets, and as a bridge between different markets in different countries, connecting different assets, different identities and different scenarios, allowing finance Services use blockchain technology to penetrate into the world of human imagination and reach out to any valuable scene. PIIP is a token based on the ERC20 standard. It uses an efficient DPOS consensus mechanism to solve the problem of the authenticity and consistency of digital assets on the chain and the real assets in the current digitalization process, and to create a set of decentralized Internet financial system based on PIIP platform.", "zh":"金融链致力于通过构建可信身份和可信资产，建立数字世界和真实商业世界资产之间的桥梁，成为不同国家不同市场之间的桥梁，连接不同资产、不同身份和不同的场景，让金融服务借助区块链技术渗透进人类的想象力世界中去，触达到任何有价值的场景中去。PIIP是基于ERC20标准的代币，采用高效的DPOS共识机制，解决目前资产数字化进程中链上数字资产同现实资产的真实性和一致性的问题，打造一套基于PIIP的去中心化互联网金融体系平台。"
+    "en": "The Financial Chain is committed to building a bridge between the digital world and the real business world assets by building trusted identities and trusted assets, and as a bridge between different markets in different countries, connecting different assets, different identities and different scenarios, allowing finance Services use blockchain technology to penetrate into the world of human imagination and reach out to any valuable scene. PIIP is a token based on the ERC20 standard. It uses an efficient DPOS consensus mechanism to solve the problem of the authenticity and consistency of digital assets on the chain and the real assets in the current digitalization process, and to create a set of decentralized Internet financial system based on PIIP platform.", "zh":"金融链致力于通过构建可信身份和可信资产，建立数字世界和真实商业世界资产之间的桥梁，成为不同国家不同市场之间的桥梁，连接不同资产、不同身份和不同的场景，让金融服务借助区块链技术渗透进人类的想象力世界中去，触达到任何有价值的场景中去。PIIP是基于ERC20标准的代币，采用高效的DPOS共识机制，解决目前资产数字化进程中链上数字资产同现实资产的真实性和一致性的问题，打造一套基于PIIP的去中心化互联网金融体系平台。"
   },
   "website": "http://www.piipchain.com/",
-  "whitepaper": "http://www.piipchain.com/static/file/PIIP.pdf", 
+  "whitepaper": "http://www.piipchain.com/static/file/PIIP.pdf",
   "published_on": "2018-07-05",
   "initial_price":{
-        "ETH":"0.0001 ETH"       
+    "ETH":"0.0001 ETH"
   }
 }
