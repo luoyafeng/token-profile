@@ -9,11 +9,5 @@
   "published_on": "2018-07-05",
   "initial_price":{
         "ETH":"0.0001 ETH"       
-  },
-  "links": {   
-    "twitter": "https://twitter.com/",
-    "telegram": "https://t.me/joinchat/",
-    "github": "https://github.com/",
-    "facebook": "https://www.facebook.com/"    
   }
 }
